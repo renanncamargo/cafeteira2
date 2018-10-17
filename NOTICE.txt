@@ -1,0 +1,31 @@
+Progressoes
+===========
+
+Dependencies
+------------
+
+Progressoes requires the following software to run:
+
+ * Java SE JRE >= 1.5
+   URL: http://java.sun.com/
+   
+ * SLF4J
+   URL: http://www.slf4j.org/
+
+Lista de Materiais requires the additional software to compile:
+
+ * Java SE SDK >= 1.5
+   URL: http://java.sun.com/
+
+ * Maven
+   URL: http://ant.apache.org/
+
+ * JUnit >= 4.11
+   Notes: For the tests only.
+   URL: http://www.junit.org/
+
+  Copyright © 1998-2014 Luiz Eduardo Buzato
+
+  Copying and distribution of this file, with or without modification,
+  are permitted in any medium without royalty provided the copyright
+  notice and this notice are preserved.
